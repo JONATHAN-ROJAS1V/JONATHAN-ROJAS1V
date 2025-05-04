@@ -28,6 +28,10 @@ My goal is to provide effective solutions and ensure the **optimal performance o
 
 ![Jhon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JONATHAN-ROJAS1V&show_icons=true&theme=dark)
 
+# 🎉 Fun GIF  
+![Cool GIF](https://github.com/JONATHAN-ROJAS1V/presentation/blob/main/Copia%20de%20Blue%20Bold%20Technology%20LinkedIn%20Article%20Cover%20Image%20(Video).gif?raw=true)
+
+
 
 <!---
 JONATHAN-ROJAS1V/JONATHAN-ROJAS1V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
